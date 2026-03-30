@@ -1,0 +1,10 @@
+# Ignore training photo directory
+photos/
+
+# Ignore common image outputs
+*.jpg
+*.jpeg
+*.png
+
+# Ignore attendance logs
+attendance.csv
